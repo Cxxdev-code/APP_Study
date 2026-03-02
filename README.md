@@ -13,10 +13,6 @@ Uma porta de entrada segura e moderna, com autenticação integrada ao banco de 
 
 ![Login](./assets/login.png)
 
-<<<<<<< HEAD
-Home
-![Home](./assets/home.png)
-
 
 
 =======
