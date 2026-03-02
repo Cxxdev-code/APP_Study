@@ -10,14 +10,22 @@ O **StudyApp** é uma aplicação desktop desenvolvida em Python para auxiliar e
 
 ### 🔐 Interface de Login
 Uma porta de entrada segura e moderna, com autenticação integrada ao banco de dados local.
+
 ![Login](./assets/login.png)
+
+Home
+![Home](./assets/home.png)
+
+
 
 ### ⏳ Cronômetro de Foco
 Controle em tempo real com feedback visual imediato. O cronômetro permite pausar e retomar sessões, garantindo precisão total no registro.
+
 ![Timer](./assets/timer.png)
 
 ### 📊 Gráfico de Performance (Eixo Y Dinâmico)
 O coração da análise de dados do app. O gráfico utiliza lógica avançada para dividir o tempo em 10 etapas exatas.
+
 ![Gráfico](./assets/grafico.png)
 
 ---
