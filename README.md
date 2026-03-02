@@ -18,7 +18,7 @@ Uma porta de entrada segura e moderna, com autenticação integrada ao banco de 
 =======
 
 ### Home
-A sentral
+A central
 ![Home](./assets/home.png)
 
 
