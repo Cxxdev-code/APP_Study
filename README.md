@@ -13,11 +13,20 @@ Uma porta de entrada segura e moderna, com autenticação integrada ao banco de 
 
 ![Login](./assets/login.png)
 
+<<<<<<< HEAD
 Home
 ![Home](./assets/home.png)
 
 
 
+=======
+
+### Home
+A sentral
+![Home](./assets/home.png)
+
+
+>>>>>>> a4f32c0 (docs: atualiza capturas de tela e descrição das funcionalidades)
 ### ⏳ Cronômetro de Foco
 Controle em tempo real com feedback visual imediato. O cronômetro permite pausar e retomar sessões, garantindo precisão total no registro.
 
