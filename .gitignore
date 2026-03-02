@@ -1,0 +1,14 @@
+# Pastas de compilação (PyInstaller)
+dist/
+build/
+*.spec
+
+# Banco de dados local (Segurança)
+*.db
+*.sqlite3
+
+# Ambientes virtuais e cache
+venv/
+.env
+__pycache__/
+.vscode/
