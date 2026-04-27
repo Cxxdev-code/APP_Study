@@ -59,6 +59,10 @@ O coração da análise de dados do app. O gráfico utiliza lógica avançada pa
 
 ## 🚀 Como Executar o Projeto
 
+baixe o aquivo .exe no realeases acima
+
+caso queria editar o codigo clone no terminal
+
 ### 1. Pré-requisitos
 Certifique-se de ter o Python instalado em sua máquina. Clone este repositório e instale as dependências necessárias:
 
